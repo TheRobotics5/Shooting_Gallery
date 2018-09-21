@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "00fcad29-92c6-48ba-a3e1-1656eea86020",
-            "Value": {
-                "id": "a8dc5b65-9903-4565-a598-9712007353c4",
-                "resourcePath": "sprites\\shot_brown_large\\shot_brown_large.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "049c1ceb-9b89-41ef-bf31-29b515732b30",
             "Value": {
                 "id": "c37a9e3d-d141-44bc-b934-dc170bb80bf4",
@@ -108,14 +100,6 @@
                 "id": "51774b2b-b1ab-4411-bbed-4a43535810f0",
                 "resourcePath": "views\\559de4d2-f557-4211-b208-206b1a61b1da.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "5785f86b-9043-4789-9841-106bd3e11913",
-            "Value": {
-                "id": "c9c6d7d2-a04d-477e-9167-c8a8009a47ee",
-                "resourcePath": "sprites\\shot_brown_small\\shot_brown_small.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -204,14 +188,6 @@
                 "id": "827ad80f-97ee-4e7f-ab52-12aea11547b3",
                 "resourcePath": "views\\836f745d-1ecb-4638-bc6a-00c6488b5f0e.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "83a49166-c490-4712-b714-94396119ae5b",
-            "Value": {
-                "id": "544bfeb9-5396-492f-90e0-8edb18e95836",
-                "resourcePath": "objects\\big_wood_hole\\big_wood_hole.yy",
-                "resourceType": "GMObject"
             }
         },
         {
