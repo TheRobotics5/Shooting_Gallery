@@ -135,14 +135,6 @@
             }
         },
         {
-            "Key": "75cbc9b9-46dd-4a05-84a5-909d776eb4a3",
-            "Value": {
-                "id": "115ec65a-75c0-4522-955c-7d4f4e82b44b",
-                "resourcePath": "sprites\\rifle_powered\\rifle_powered.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "75cf4df3-8fdb-49a5-921a-579f354ebc60",
             "Value": {
                 "id": "aa66d9d0-60ad-4691-8a1d-0279867d1bc6",
@@ -188,14 +180,6 @@
                 "id": "827ad80f-97ee-4e7f-ab52-12aea11547b3",
                 "resourcePath": "views\\836f745d-1ecb-4638-bc6a-00c6488b5f0e.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "8d58c186-6503-4244-b9e0-68b5b80a23e0",
-            "Value": {
-                "id": "df319f30-7d15-4cad-b0c3-64f84df44647",
-                "resourcePath": "sprites\\text_0\\text_0.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -274,7 +258,7 @@
             "Key": "c1fdba8b-a5f8-4138-9b53-1b72b86064f2",
             "Value": {
                 "id": "42c7317c-675e-4366-8082-a074f381061d",
-                "resourcePath": "sprites\\crosshair_red_large\\crosshair_red_large.yy",
+                "resourcePath": "sprites\\sprite_crosshair\\sprite_crosshair.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -290,15 +274,7 @@
             "Key": "c8c8da5e-f500-44b3-a53d-46452195bd89",
             "Value": {
                 "id": "58263a56-5edb-4309-a53f-d6f5c767913e",
-                "resourcePath": "objects\\player_crosshair\\player_crosshair.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "cb908278-b5f7-4e8d-b33e-0af0e04562e6",
-            "Value": {
-                "id": "9e761119-4c08-4ec7-add8-026bc3c09011",
-                "resourcePath": "objects\\curtain\\curtain.yy",
+                "resourcePath": "objects\\object_crosshair\\object_crosshair.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -316,14 +292,6 @@
                 "id": "8cc059ff-ba10-4144-b9f6-0ace710baae8",
                 "resourcePath": "views\\d3125f14-87c2-4447-9681-efb91897a53b.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "d49eb3d3-63fb-48cc-a95f-5fdbfc7fdc63",
-            "Value": {
-                "id": "60fde8c0-c3f7-45aa-a5f8-ccc8df6f6fd5",
-                "resourcePath": "objects\\normal_rifle\\normal_rifle.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -355,22 +323,6 @@
             "Value": {
                 "id": "9f1f6c22-a975-4c90-ba00-b1449b0bfd05",
                 "resourcePath": "sprites\\bg_curtain\\bg_curtain.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ea59e12e-dbc9-4c68-b775-2d66e3b0618d",
-            "Value": {
-                "id": "049d5638-e561-4abf-b21b-c5c9e22f68f3",
-                "resourcePath": "objects\\background\\background.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f2bffceb-c7d3-4985-90e7-e4819c3d439b",
-            "Value": {
-                "id": "728dbf9e-6284-4c4a-a9c3-aee5e3d49640",
-                "resourcePath": "sprites\\rifle_normal\\rifle_normal.yy",
                 "resourceType": "GMSprite"
             }
         },
