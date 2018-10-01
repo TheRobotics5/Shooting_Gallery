@@ -4,6 +4,6 @@
 /// @DnDArgument : "xpos" "mouse_x"
 /// @DnDArgument : "ypos" "mouse_y"
 /// @DnDArgument : "objectid" "small_blue_hole"
-/// @DnDArgument : "layer" ""HUD_Items""
+/// @DnDArgument : "layer" ""Crosshair""
 /// @DnDSaveInfo : "objectid" "7ded2ac0-9cc7-4e3c-8790-b43a734010bf"
-instance_create_layer(mouse_x, mouse_y, "HUD_Items", small_blue_hole);
+instance_create_layer(mouse_x, mouse_y, "Crosshair", small_blue_hole);

@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "55df3f5b-a68c-491a-9600-4183df65de6d",
+            "Value": {
+                "id": "e4281bab-31cb-4891-965d-34d5bd693af5",
+                "resourcePath": "objects\\Score\\Score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a71f054-3336-4603-a676-53f8a8747ca9",
             "Value": {
                 "id": "7ffff74e-bdaf-47c6-9881-39d91beef6e4",
