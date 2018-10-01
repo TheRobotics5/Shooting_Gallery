@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "yellow_duck",
     "eventList": [
-        
+        {
+            "id": "47b49527-3a16-4f23-a4ec-a22d4ae8aa8a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "baffd353-ca1d-4ad4-bd44-1ae1fe28f65a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
