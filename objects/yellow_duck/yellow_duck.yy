@@ -5,13 +5,23 @@
     "name": "yellow_duck",
     "eventList": [
         {
-            "id": "47b49527-3a16-4f23-a4ec-a22d4ae8aa8a",
+            "id": "ff25c6a8-34c5-46c0-a31f-df9215428817",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "baffd353-ca1d-4ad4-bd44-1ae1fe28f65a"
+        },
+        {
+            "id": "c15f7282-ed3b-4f0e-9240-9d0bde851a59",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "74c81059-2112-4e79-b517-a21d3d76ace5",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "baffd353-ca1d-4ad4-bd44-1ae1fe28f65a"
         }
     ],

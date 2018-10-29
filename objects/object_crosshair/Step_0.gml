@@ -1,7 +1,12 @@
-/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 176769AE
-/// @DnDArgument : "x" "mouse_x"
-/// @DnDArgument : "y" "mouse_y"
-x = mouse_x;
-y = mouse_y;
+/// @DnDHash : 12BFB0C1
+/// @DnDArgument : "steps" "irandom(20)"
+alarm_set(0, irandom(20));
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 03D1EC41
+/// @DnDArgument : "steps" "irandom(10)"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, irandom(10));
