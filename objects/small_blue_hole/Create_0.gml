@@ -2,10 +2,4 @@
 /// @DnDVersion : 1
 /// @DnDHash : 48A5E4EF
 /// @DnDArgument : "steps" "80"
-/// @DnDArgument : "steps_relative" "1"
-alarm_set(0, 80 + alarm_get(0));
-
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 0D0C483D
-instance_destroy();
+alarm_set(0, 80);
