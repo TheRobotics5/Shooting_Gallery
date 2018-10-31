@@ -47,11 +47,35 @@
             }
         },
         {
-            "Key": "28f084f3-8502-4c88-9839-bd53119240c0",
+            "Key": "1e8d5652-8054-4c75-877d-591486983d77",
             "Value": {
-                "id": "cecfbb1a-a679-4f32-ac68-41c35aa7cde2",
-                "resourcePath": "objects\\wood\\wood.yy",
+                "id": "c4f9654f-35c7-4dc1-a5a8-a5feb99c2163",
+                "resourcePath": "objects\\gameover\\gameover.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1fbae0ef-025d-4efa-9b48-bd32b6ab0325",
+            "Value": {
+                "id": "e946a3f3-4f4a-4ea2-9394-6c09194134c3",
+                "resourcePath": "objects\\Powerup\\Powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "29d37013-eea2-4d94-b72c-29499ac7e552",
+            "Value": {
+                "id": "abc04207-8fb5-41ec-8b5a-099c1f80c9ab",
+                "resourcePath": "objects\\Powered_duck\\Powered_duck.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2c0d7de0-f381-4a33-9946-f89d604b45f8",
+            "Value": {
+                "id": "3c9b7b3c-48e7-4d94-86b7-9cc49b45e946",
+                "resourcePath": "rooms\\Game_Over\\Game_Over.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -60,6 +84,14 @@
                 "id": "a2c7e8e5-d307-4c9d-a88e-c080fe615938",
                 "resourcePath": "timelines\\ducks\\ducks.yy",
                 "resourceType": "GMTimeline"
+            }
+        },
+        {
+            "Key": "31c51905-c551-4bcb-8b62-c193cc22c936",
+            "Value": {
+                "id": "14fec87e-8578-41c4-a379-36e2fed519e3",
+                "resourcePath": "sprites\\target_bullets\\target_bullets.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -127,19 +159,19 @@
             }
         },
         {
+            "Key": "6c462fc7-8854-4e1d-b88f-737fdb344856",
+            "Value": {
+                "id": "270d5fa2-9d42-4ab4-956e-aa3132cc2c04",
+                "resourcePath": "timelines\\shoot\\shoot.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "6f7b4b77-33f8-4f55-b86b-594a7b9fde6a",
             "Value": {
                 "id": "3a0b1170-2ff8-4d6d-9ed0-8f5498e4c517",
                 "resourcePath": "views\\6f7b4b77-33f8-4f55-b86b-594a7b9fde6a.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "704fd395-7c3d-4fc8-8e0d-902a95572df2",
-            "Value": {
-                "id": "d0783174-cd4e-413e-9e46-0d940070c484",
-                "resourcePath": "objects\\Water\\Water.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -163,6 +195,14 @@
             "Value": {
                 "id": "b0905adf-c09e-4649-bfd0-bd7a5bc0046b",
                 "resourcePath": "sprites\\bg_blue\\bg_blue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7b11abb6-3619-4744-bdbe-fd7020e8b943",
+            "Value": {
+                "id": "b2ac6007-2c3a-4638-b713-25964cc9c9ed",
+                "resourcePath": "sprites\\duck_powerup_sprite\\duck_powerup_sprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -239,6 +279,14 @@
             }
         },
         {
+            "Key": "ac879e6e-6ed2-4c6b-a9f8-8c251d58dd7c",
+            "Value": {
+                "id": "fd0a7317-e64e-428e-bcab-74567c26d95a",
+                "resourcePath": "sprites\\gameover_sprite\\gameover_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b41028a6-14d7-4ecc-8410-18135ae59475",
             "Value": {
                 "id": "d2a372bb-d4bc-4d0a-b887-8cc42e7e1db6",
@@ -268,6 +316,14 @@
                 "id": "49950aa0-1636-4b12-893c-ab315464beb1",
                 "resourcePath": "views\\bdf57ee7-7b9b-464f-8915-99c2013def20.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bf89e3fd-a121-4b7e-8f9e-565f59956a79",
+            "Value": {
+                "id": "f00c70f3-b92e-4ad3-bff6-b695dbdbe145",
+                "resourcePath": "objects\\Healthbar\\Healthbar.yy",
+                "resourceType": "GMObject"
             }
         },
         {

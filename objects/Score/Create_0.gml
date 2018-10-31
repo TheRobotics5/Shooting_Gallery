@@ -13,3 +13,9 @@ score = 0;
 timeline_index = ducks;
 timeline_loop = 1;
 timeline_running = 1;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 4A9F3817
+/// @DnDArgument : "steps" "irandom_range(300, 500)"
+alarm_set(0, irandom_range(300, 500));

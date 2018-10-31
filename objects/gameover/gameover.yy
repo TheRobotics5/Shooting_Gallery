@@ -1,8 +1,8 @@
 {
-    "id": "704fd395-7c3d-4fc8-8e0d-902a95572df2",
+    "id": "1e8d5652-8054-4c75-877d-591486983d77",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Water",
+    "name": "gameover",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "09adceb4-4234-48a0-aaca-20ce57cebd2d",
+    "spriteId": "ac879e6e-6ed2-4c6b-a9f8-8c251d58dd7c",
     "visible": true
 }

@@ -1,8 +1,8 @@
 {
-    "id": "28f084f3-8502-4c88-9839-bd53119240c0",
+    "id": "29d37013-eea2-4d94-b72c-29499ac7e552",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "wood",
+    "name": "Powered_duck",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "049c1ceb-9b89-41ef-bf31-29b515732b30",
+    "spriteId": "7b11abb6-3619-4744-bdbe-fd7020e8b943",
     "visible": true
 }

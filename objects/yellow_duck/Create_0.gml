@@ -9,3 +9,9 @@ direction = 0;
 /// @DnDHash : 405A7ACA
 /// @DnDArgument : "speed" "5"
 speed = 5;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1EDD436C
+/// @DnDArgument : "var" "safe"
+safe = 0;

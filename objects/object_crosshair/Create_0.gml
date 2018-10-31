@@ -12,13 +12,17 @@ speed = 5;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 4C77216D
-/// @DnDArgument : "steps" "irandom(20)"
-alarm_set(0, irandom(20));
-
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
-/// @DnDVersion : 1
 /// @DnDHash : 76C3A29D
 /// @DnDArgument : "steps" "irandom(10)"
 /// @DnDArgument : "alarm" "1"
 alarm_set(1, irandom(10));
+
+/// @DnDAction : YoYo Games.Timelines.Set_Timeline
+/// @DnDVersion : 1
+/// @DnDHash : 0768703C
+/// @DnDArgument : "timeline" "shoot"
+/// @DnDArgument : "loop" "1"
+/// @DnDSaveInfo : "timeline" "6c462fc7-8854-4e1d-b88f-737fdb344856"
+timeline_index = shoot;
+timeline_loop = 1;
+timeline_running = 1;

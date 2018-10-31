@@ -35,9 +35,9 @@ if(pick == 1)
 	/// @DnDHash : 5E7DE3FE
 	/// @DnDParent : 409866DA
 	/// @DnDArgument : "xpos" "-3.5"
-	/// @DnDArgument : "ypos" "530"
+	/// @DnDArgument : "ypos" "545"
 	/// @DnDArgument : "objectid" "yellow_duck"
 	/// @DnDArgument : "layer" ""Special_Ducks""
 	/// @DnDSaveInfo : "objectid" "baffd353-ca1d-4ad4-bd44-1ae1fe28f65a"
-	instance_create_layer(-3.5, 530, "Special_Ducks", yellow_duck);
+	instance_create_layer(-3.5, 545, "Special_Ducks", yellow_duck);
 }

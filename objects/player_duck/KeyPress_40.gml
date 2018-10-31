@@ -10,5 +10,5 @@ y = 512;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 31F92483
-/// @DnDArgument : "code" "depth = 400;"
-depth = 400;
+/// @DnDArgument : "code" "depth = 200;"
+depth = 200;
