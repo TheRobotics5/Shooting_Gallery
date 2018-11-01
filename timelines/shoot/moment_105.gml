@@ -21,6 +21,6 @@ instance_create_layer(x + 0, y + 0, "Crosshair", bullet);
 /// @DnDAction : YoYo Games.Timelines.Speed_Timeline
 /// @DnDVersion : 1
 /// @DnDHash : 23FB89B7
-/// @DnDArgument : "speed" "0.3"
+/// @DnDArgument : "speed" "0.1"
 /// @DnDArgument : "speed_relative" "1"
-timeline_speed += 0.3;
+timeline_speed += 0.1;

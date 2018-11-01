@@ -2,11 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 68E4DF3E
 /// @DnDArgument : "xpos" "10"
-/// @DnDArgument : "ypos" "400"
+/// @DnDArgument : "ypos" "200"
 /// @DnDArgument : "objectid" "Powerup"
 /// @DnDArgument : "layer" ""Special_Ducks""
 /// @DnDSaveInfo : "objectid" "1fbae0ef-025d-4efa-9b48-bd32b6ab0325"
-instance_create_layer(10, 400, "Special_Ducks", Powerup);
+instance_create_layer(10, 200, "Special_Ducks", Powerup);
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1
