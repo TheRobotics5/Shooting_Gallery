@@ -8,7 +8,8 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "4db0b219-8cec-4140-b735-51bbb23e5c29",
-        "c20ed77c-dc55-4375-befa-424a4a0757bc"
+        "c20ed77c-dc55-4375-befa-424a4a0757bc",
+        "4bd58413-219d-4c5e-a8d8-7f5dbff427b3"
     ],
     "IsDnD": true,
     "layers": [
@@ -26,7 +27,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_1C25990E","id": "c20ed77c-dc55-4375-befa-424a4a0757bc","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1C25990E","objId": "c8c8da5e-f500-44b3-a53d-46452195bd89","properties": null,"rotation": 0,"scaleX": 2.92,"scaleY": 2.92,"mvc": "1.0","x": 512,"y": 448}
+{"name": "inst_1C25990E","id": "c20ed77c-dc55-4375-befa-424a4a0757bc","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1C25990E","objId": "c8c8da5e-f500-44b3-a53d-46452195bd89","properties": null,"rotation": 0,"scaleX": 2.92,"scaleY": 2.92,"mvc": "1.0","x": 512,"y": 448},
+{"name": "inst_5CCA28AF","id": "4bd58413-219d-4c5e-a8d8-7f5dbff427b3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5CCA28AF","objId": "5db384d6-c3f1-42e6-926c-e45ce7418160","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 352,"y": 672}
             ],
             "layers": [
 
@@ -42,7 +44,7 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Water",
             "id": "697428f1-d20f-4db8-b728-449a3cc607fe",
-            "animationFPS": 15,
+            "animationFPS": 2,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
             "depth": 100,

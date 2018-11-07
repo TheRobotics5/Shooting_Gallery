@@ -21,11 +21,11 @@ if(protect == 0)
 	/// @DnDAction : YoYo Games.Instance Variables.Set_Health
 	/// @DnDVersion : 1
 	/// @DnDHash : 34D83081
-	/// @DnDApplyTo : bf89e3fd-a121-4b7e-8f9e-565f59956a79
+	/// @DnDApplyTo : a3b181a1-f327-4d9f-8c5c-1bb69d224796
 	/// @DnDParent : 5101FBBB
 	/// @DnDArgument : "health" "-10"
 	/// @DnDArgument : "health_relative" "1"
-	with(Healthbar) {
+	with(player_duck) {
 	if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
 	__dnd_health += real(-10);
 	}

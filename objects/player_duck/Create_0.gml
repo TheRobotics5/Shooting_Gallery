@@ -1,3 +1,8 @@
+/// @DnDAction : YoYo Games.Drawing.Draw_Self
+/// @DnDVersion : 1
+/// @DnDHash : 483ECA3A
+draw_self();
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 76394878
@@ -7,11 +12,9 @@ protect = 0;
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 56B19546
-/// @DnDBreak : 1
-
-/// @DnDApplyTo : bf89e3fd-a121-4b7e-8f9e-565f59956a79
+/// @DnDApplyTo : a3b181a1-f327-4d9f-8c5c-1bb69d224796
 /// @DnDArgument : "health" "100"
-with(Healthbar) {
+with(player_duck) {
 
 __dnd_health = real(100);
 }

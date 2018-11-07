@@ -29,11 +29,11 @@ if(safe == 0)
 	/// @DnDHash : 15729D8F
 	/// @DnDApplyTo : 55df3f5b-a68c-491a-9600-4183df65de6d
 	/// @DnDParent : 4CE18DFA
-	/// @DnDArgument : "score" "-10"
+	/// @DnDArgument : "score" "-5"
 	/// @DnDArgument : "score_relative" "1"
 	with(Score) {
 	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-	__dnd_score += real(-10);
+	__dnd_score += real(-5);
 	}
 }
 
