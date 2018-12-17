@@ -1,8 +1,3 @@
-/// @DnDAction : YoYo Games.Drawing.Draw_Self
-/// @DnDVersion : 1
-/// @DnDHash : 483ECA3A
-draw_self();
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 76394878

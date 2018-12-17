@@ -44,7 +44,7 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Water",
             "id": "697428f1-d20f-4db8-b728-449a3cc607fe",
-            "animationFPS": 2,
+            "animationFPS": 8,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
             "depth": 100,
